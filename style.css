@@ -10,7 +10,7 @@
       body{
       font-family: 'arial';
       background-color: #0e031c;
-      color:rgba(255, 0, 17, 0.886);
+      color:rgba(0, 119, 255, 0.886);
       margin:10px auto;
       text-align: center;
   }
@@ -60,11 +60,11 @@
   }
   
   ul{
-      font-size: 28px;
+      font-size: 24px;
       color: black;
   }
   ol{
-      font-size: 28px;
+      font-size: 24px;
       color: black;
   
   }
